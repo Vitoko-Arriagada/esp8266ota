@@ -8,8 +8,10 @@
 #include <ESP_OTA_GitHub.h>
 
 #ifndef STASSID
-#define STASSID "Sensores"
-#define STAPSK "66083337"
+// #define STASSID "Sensores"
+// #define STAPSK "66083337"
+#define STASSID "2022"
+#define STAPSK "HolaquetalWIFI@123"
 #endif
 
 // A single, global CertStore which can be used by all
